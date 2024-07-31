@@ -1,3 +1,3 @@
 ﻿# Traducao-SM3DW
 
-Meet the customized version of WinPE, for computer maintenance via USB device. It has great tools, such as CrystalDiskInfo for HD diagnostics, CPU-Z to check system information, Windows scripts and much more...
+Check out the unofficial PT-BR translation of Super Mario 3D World for Wii U and Switch.
